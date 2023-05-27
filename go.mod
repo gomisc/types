@@ -1,3 +1,3 @@
-module git.eth4.dev/golibs/types
+module gopkg.in/gomisc/types.v1
 
 go 1.19
