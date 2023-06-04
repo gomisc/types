@@ -1,3 +1,3 @@
 module gopkg.in/gomisc/types.v1
 
-go 1.19
+go 1.20
