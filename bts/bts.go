@@ -1,7 +1,7 @@
 package bts
 
 import (
-	"git.eth4.dev/golibs/types"
+	"gopkg.in/gomisc/types.v1"
 )
 
 type node[T types.Item[T]] struct {
